@@ -1,0 +1,14 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class Calculator extends CI_Controller {
+
+
+	public function index()
+	{
+		$data=array();
+		$this->template->load('template', 'home/index_view', $data);
+	}
+}
+
+/* End of file home.php */
+/* Location: ./application/controllers/home.php */
