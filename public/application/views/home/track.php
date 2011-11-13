@@ -10,6 +10,7 @@
 		});
 	});
 </script>
+<p>Desde <strong><?php echo urldecode($home);?></strong> a <strong><?php echo urldecode($destiny);?></strong>:</p>
 <div class='row'>
 	<div class='six columns'>
 		<div class='row'>
