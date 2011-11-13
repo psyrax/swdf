@@ -37,7 +37,7 @@
 			<div class="row">
 				<div class="eight columns centered">
 				<br />
-					<img src='/images/enrutame-logo.png' style="height:50px;" class='show-on-phones'/>
+					<img src='/images/enrutame-logo.png' style="height:100px;" class='show-on-phones'/>
 					<img src='/images/enrutame-logo.png' style="height:200px;" class='hide-on-phones'/>
 				</div>
 			</div>
