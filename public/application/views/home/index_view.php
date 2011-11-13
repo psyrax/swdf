@@ -32,7 +32,7 @@ $(function(){
 </script>
 <div class='row'>
 	<div class='eight columns centered'>
-			<h4 class='subheader hide-on-phone' style='font-weight:300;color:#777;font-size: 1.8rem;line-height: 1.25;margin-top:1em;'>&iquest;Quieres llegar a un lugar en transporte p&uacute;blico, pero no tienes idea de c&oacute;mo hacerlo? ¡Enr&uacute;tame! Tenemos el primer servicio en l&iacute;nea para encontrar la mejor ruta en transporte p&uacute;blico a tu destino. <br />
+			<h4 class='subheader hide-on-phones' style='font-weight:300;color:#777;font-size: 1.8rem;line-height: 1.25;margin-top:1em;'>&iquest;Quieres llegar a un lugar en transporte p&uacute;blico, pero no tienes idea de c&oacute;mo hacerlo? ¡Enr&uacute;tame! Tenemos el primer servicio en l&iacute;nea para encontrar la mejor ruta en transporte p&uacute;blico a tu destino. <br />
 			&iquest;Tienes prisa? Encuentra la ruta m&aacute;s corta. &iquest;Traes poca lana? Te decimos la ruta m&aacute;s barata. Adem&aacute;s, comparte tus mejores secretos con la comunidad y descubre excelentes alternativas que otros usuarios están compartiendo.</h4>
 			<hr />
 		<div class='row' id='backtrack'>
