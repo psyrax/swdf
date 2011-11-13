@@ -17,7 +17,7 @@
 				<h2>1</h2>
 			</div>
 			<div class='six columns'>
-				Salida de ITAM
+				<textarea class="nice radius"></textarea>
 			</div>
 		</div>
 		<div class='row'>
@@ -25,7 +25,7 @@
 				<h2>2</h2>
 			</div>
 			<div class='six columns'>
-				Tomar bus Metro barranca del muerto
+				<textarea class="nice radius"></textarea>
 			</div>
 		</div>
 		<div class='row'>
@@ -33,9 +33,10 @@
 				<h2>3</h2>
 			</div>
 			<div class='six columns'>
-				Bajar en Metro barranca del muerto
+				<textarea class="nice radius"></textarea>
 			</div>
 		</div>
+		<a href="#" class="nice small radius red button" id='send'>Compartir</a>
 	</div>
 	<div class='four columns'>
 		<div class='map' style='height:300px;width:300px;background:#CCCCCC;'>

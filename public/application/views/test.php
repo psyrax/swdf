@@ -1,0 +1,1 @@
+<img src='http://maps.googleapis.com/maps/api/staticmap?center=19.344381,-99.200191&markers=color:green%7Clabel:1%7C19.344381,-99.200191&markers=color:green%7Clabel:2%7C19.341192,-99.202638&markers=color:green%7Clabel:3%7C19.361741,-99.191051&zoom=13&size=300x300&sensor=false' />

@@ -8,17 +8,17 @@ class Home extends CI_Controller {
 		$data=array();
 		$this->template->load('template', 'home/index_view', $data);
 	}
-	public function track($home,$destiny)
+	public function track($home=NULL,$destiny=NULL)
 	{
 		$data['home']=$home;
 		$data['destiny']=$destiny;
 		$this->load->view('home/track', $data);
 	}
-	public function show($home,$destiny)
+	public function show($home=NULL,$destiny=NULL)
 	{
-		echo $home;
-		echo "-";
-		echo $destiny;
+		$data['home']=$home;
+		$data['destiny']=$destiny;
+		$this->load->view('home/show', $data);
 	}
 }
 
