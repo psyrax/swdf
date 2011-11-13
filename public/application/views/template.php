@@ -17,6 +17,7 @@
 	<link rel="stylesheet" href="/foundation/stylesheets/foundation.css">
 	<link rel="stylesheet" href="/foundation/stylesheets/app.css">
 	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="stylesheets/ie.css">
 	<![endif]-->
@@ -36,7 +37,8 @@
 			<div class="row">
 				<div class="eight columns centered">
 				<br />
-					<img src='/images/enrutame-logo.png' style="height:200px" />
+					<img src='/images/enrutame-logo.png' style="height:50px;" class='show-on-phones'/>
+					<img src='/images/enrutame-logo.png' style="height:200px;" class='hide-on-phones'/>
 				</div>
 			</div>
 		</header>
