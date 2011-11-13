@@ -10,9 +10,9 @@ class Home extends CI_Controller {
 	}
 	public function track($home,$destiny)
 	{
-		echo $home;
-		echo "-";
-		echo $destiny;
+		$data['home']=$home;
+		$data['destiny']=$destiny;
+		$this->load->view('home/track', $data);
 	}
 	public function show($home,$destiny)
 	{

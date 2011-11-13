@@ -8,10 +8,12 @@ class Calculator extends CI_Controller {
 		$data=array();
 		$precios=array();
 		$vecinos=array();
-
 		$entrypoints=array();
 	}
 }
 
+
+
+function 
 /* End of file home.php */
 /* Location: ./application/controllers/home.php */
